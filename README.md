@@ -1,5 +1,7 @@
 # AARE
 
+## Vinicius da Costa Serafini | RA:00203936
+
 A new Flutter project.
 
 ## Getting Started
